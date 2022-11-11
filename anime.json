@@ -57,6 +57,42 @@
              "desc":"Chainsaw Man Anime Figure (2Pcs/Set),Gift for Kids Halloween Thanksgiving Christmas Birthday Gifts"
           }
       ]
-   }
-    
+   },    
+   {
+     "id": 2,
+     "poster":"https://i.ibb.co/TvvkvFM/4222510.webp",
+     "hasItem": 1,
+     "items":[
+        {
+          "itemImageUrl":"https://m.media-amazon.com/images/I/616YRHWRZwL._AC_SX679_.jpg",
+           "link":"https://amzn.to/3NVww45",
+           "desc":"Funko POP Anime: Naruto - Gaara"
+        },
+        {
+           "itemImageUrl":"https://m.media-amazon.com/images/I/51PaWDeQuGL._AC_SX679_.jpg",
+            "link":"https://amzn.to/3TCw0t2",
+            "desc":"Funko POP Animation: Naruto - Naruto Six Path Sage"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/61jJhQaiXpL._AC_SY879_.jpg",
+            "link":"https://amzn.to/3tlg2se",
+            "desc":"Funko POP Anime: Naruto Shippuden Kakashi Toy Figure , Gray"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/51TZ+IXxE7L._AC_SY879_.jpg",
+            "link":"https://amzn.to/3A7pMdu",
+            "desc":"Funko POP Anime: Naruto Kurama 6 Action Figure"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/514twnbVqWL._AC_SY879_.jpg",
+            "link":"https://amzn.to/3NZT7wi",
+            "desc":"Funko POP! Naruto - Itachi with Kunai Collectible Figure"
+         },
+         {
+            "itemImageUrl":"https://m.media-amazon.com/images/I/610cunP4zOL._AC_SX679_.jpg",
+               "link":"https://amzn.to/3E1vDSJ",
+               "desc":"Funko Pop! Animation: Naruto - Orochimaru"
+         }
+     ]
+  }
 ]
