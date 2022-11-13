@@ -45,9 +45,46 @@
                "desc":"Tamashii Nations - Demon Slayer - Nezuko Kamado Blood Demon Art, Bandai Spirits FiguartsZERO"
          }
       ]
-   },    
+   },
    {
-   "id": 1,
+      "id": 1,
+      "poster":"https://i.ibb.co/jk1YGqv/eb659b5f67d9152d.jpg",
+      "hasItem": 1,
+      "items":[
+         {
+            "itemImageUrl":"https://m.media-amazon.com/images/I/41hkr1t59wL._AC_.jpg",
+               "link":"https://amzn.to/3DVMxlS",
+               "desc":"Funko POP Anime: Bleach Ichigo Action Figure"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/51wc3C90t-L._AC_SX679_.jpg",
+            "link":"https://amzn.to/3EswpJU",
+            "desc":"Funko Pop Bleach Ichigo Kurosaki Bankai Tensa Zangetsu Vinyl Figure"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/61bPXtyUK4L._AC_SY879_.jpg",
+            "link":"https://amzn.to/3AaGlFC",
+            "desc":"Funko Pop Animation: Bleach - Grimmjow Collectible Figure"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/41E+PlcSexL._AC_.jpg",
+            "link":"https://amzn.to/3UV6Oiu",
+            "desc":"Megahouse Bleach: Ichigo Kurosaki (10th Anniversary Edition) Gem Series PVC Figure"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/6172sX-TInL._AC_SY879_.jpg",
+            "link":"https://amzn.to/3UwpxkA",
+            "desc":"Bleach Anime Poster Ichigo Kurosaki"
+         },
+         {
+         "itemImageUrl":"https://m.media-amazon.com/images/I/810NgWv-zBL._AC_SX679_.jpg",
+            "link":"https://amzn.to/3UFP2zC",
+            "desc":"Toomilki Demon Slayer Posters, Japanese Anime Kimetsu No Yaiba Art Prints"
+         }
+      ]
+   }, 
+   {
+   "id": 2,
    "poster":"https://i.ibb.co/CKXnMLQ/chainsaw-man.jpg",
    "hasItem": 1,
    "items":[
@@ -74,7 +111,7 @@
    ]
    },    
    {
-   "id": 2,
+   "id": 3,
    "poster":"https://i.ibb.co/TvvkvFM/4222510.webp",
    "hasItem": 1,
    "items":[
@@ -116,7 +153,7 @@
    ]
    },    
    {
-   "id": 3,
+   "id": 4,
    "poster":"https://i.ibb.co/CV3K100/2.jpg",
    "hasItem": 1,
    "items":[
@@ -143,7 +180,7 @@
    ]
    },    
    {
-   "id": 4,
+   "id": 5,
    "poster":"https://i.ibb.co/WKFtgV4/one-piece.jpg",
    "hasItem": 1,
    "items":[
@@ -184,5 +221,4 @@
       }
    ]
    }
-    
 ]
