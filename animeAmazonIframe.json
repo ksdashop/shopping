@@ -3,7 +3,20 @@
       "id": 0,
       "poster":"https://i.ibb.co/zXQ19Vq/83234936-2967371056693052-8131259941945081856-n.jpg",
       "hasItem": 1,
+      "Name": "鬼滅 Kimetsu no Yaiba",
       "items":[
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08XJKTCJ4&asins=B08XJKTCJ4&linkId=874f731a3c61e2b328854187d83ab564&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3V3Noro"
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08CWDD4TY&asins=B08CWDD4TY&linkId=9bf955483927b3af4770b6ed4fa2b0a9&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3g7J4J9"
+         },
          {
             "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B09DW2K129&asins=B09DW2K129&linkId=b86a2e79dc0b75196239199bf9bb5f42&show_border=true&link_opens_in_new_window=false",
             "width": "120px",
@@ -37,13 +50,6 @@
       
          },
          {
-            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B085BMCJVQ&asins=B085BMCJVQ&linkId=47a30d481de4c1d464a32418f6217129&show_border=true&link_opens_in_new_window=false",
-            "width": "120px",
-            "height": "240px",
-            "link":"https://amzn.to/3UFP2zC"
-      
-         },
-         {
             "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B09D3RXJNM&asins=B09D3RXJNM&linkId=f658775e7cba1b92a9afd56d063c7290&show_border=true&link_opens_in_new_window=false",
             "width": "120px",
             "height": "240px",
@@ -56,6 +62,12 @@
             "height": "240px",
             "link":"https://amzn.to/3hEXBw3"
       
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B0819MRFSB&asins=B0819MRFSB&linkId=fc355b8da355f321c515f4e0e8419174&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3tAjtvu"
          }
       ]
    },    
@@ -63,8 +75,20 @@
    "id": 1,
    "poster":"https://i.ibb.co/CKXnMLQ/chainsaw-man.jpg",
    "hasItem": 1,
+   "Name": "鏈鋸人 Chainsaw Man",
    "items":[
-      
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B0BLC2T8SP&asins=B0BLC2T8SP&linkId=43878d3c61816cf69cedaf49f858d758&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3ED1TNu"
+      },
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08YYJZBNW&asins=B08YYJZBNW&linkId=ce9d667d82e5bf1c521a69ab43034902&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3tAVBYu"
+      },
       {
          "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08TWL7MPM&asins=B08TWL7MPM&linkId=502f12fa1e6c8ccf325e9bc620c0a9e2&show_border=true&link_opens_in_new_window=false",
          "width": "120px",
@@ -95,7 +119,14 @@
    "id": 2,
    "poster":"https://i.ibb.co/TvvkvFM/4222510.webp",
    "hasItem": 1,
+   "Name": "火影 naruto",
    "items":[
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B00UUBP5BS&asins=B00UUBP5BS&linkId=24ee39ebfacdd6cfefc7db25af6eabb6&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3UF7hph"
+      },
       {
          "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08XC4HVYS&asins=B08XC4HVYS&linkId=80b820c10414dc88894a50001c53a22b&show_border=true&link_opens_in_new_window=false",
          "width": "120px",
@@ -139,13 +170,26 @@
          "link":"https://amzn.to/3E1vDSJ"
       }
 
-   ]
+      ]
    },    
    {
    "id": 3,
    "poster":"https://i.ibb.co/CV3K100/2.jpg",
    "hasItem": 1,
+   "Name": "咒術迴戰 Jujutsu Kaisen",
    "items":[
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08XC4FK99&asins=B08XC4FK99&linkId=985ef21457d503a2d7c162e7f0fe35ee&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3g80JAi"
+      },
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B09C2XVB2P&asins=B09C2XVB2P&linkId=e16b1b01485725bd660098d132b7386e&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3UYAawj"
+      },
       {
          "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08KHFW8PZ&asins=B08KHFW8PZ&linkId=ed73e6a857958ec8db8345d85f081ea2&show_border=true&link_opens_in_new_window=false",
          "width": "120px",
@@ -177,7 +221,20 @@
    "id": 4,
    "poster":"https://i.ibb.co/WKFtgV4/one-piece.jpg",
    "hasItem": 1,
+   "Name": "海賊王 one piece",
    "items":[
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B08S6S44QC&asins=B08S6S44QC&linkId=e7a89ba8868b8b5d1a11d1760ff86bdf&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3UFf728"
+      },
+      {
+         "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B073PNVH64&asins=B073PNVH64&linkId=f719001acb0b8dd4a12a295f2ff4bc4e&show_border=true&link_opens_in_new_window=false",
+         "width": "120px",
+         "height": "240px",
+         "link":"https://amzn.to/3OcPkMf"
+      },
       {
          "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B0198KU8PY&asins=B0198KU8PY&linkId=9bc110f21503a02099146e08796d1fec&show_border=true&link_opens_in_new_window=false",
          "width": "120px",
@@ -223,6 +280,43 @@
 
      
    ]
+   },
+   {
+      "id": 5,
+      "poster":"https://i.ibb.co/jk1YGqv/eb659b5f67d9152d.jpg",
+      "hasItem": 1,
+      "Name": "死神 BLEACH Anime",
+      "items":[
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B09KMQW6PH&asins=B09KMQW6PH&linkId=e9004ea582dca2461a385ca95cbc426a&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3g6MBHJ"
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B00U0HPT2C&asins=B00U0HPT2C&linkId=5113fe0eaf12e3d553adc28faf35c24d&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3O9xjyi"
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B00BCN90N2&asins=B00BCN90N2&linkId=cd62404cf74476af8124f6a86c87a7d5&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3X7BWgn"
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B09RGPRXG4&asins=B09RGPRXG4&linkId=1ff19b8f86ba9d871ff510ba06ef294f&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3EwTNVN"
+         },
+         {
+            "iframeUrl": "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ksdapun-20&language=en_US&marketplace=amazon&region=US&placement=B0914VXPH9&asins=B0914VXPH9&linkId=de5a9873080abbf853e4bc33224b83da&show_border=true&link_opens_in_new_window=false",
+            "width": "120px",
+            "height": "240px",
+            "link":"https://amzn.to/3Gg1VfI"
+         }
+      ]
    }
-    
 ]
